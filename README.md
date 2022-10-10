@@ -14,5 +14,5 @@ Requirements:
   Microsoft SQL Server
   
 Work in Progress:
-Merge .Net Windows Form Application over to ASP.NET Web Application and host with Azure, this will make the Application accessible over the internet,
-eliminate the need for a local SQL Database, and will improve UX.
+Merge .Net Windows Form Application over to ASP.NET Web Application and host with Azure. This will make the Application accessible over the internet,
+move the SQL database into the cloud, and will improve UX.
